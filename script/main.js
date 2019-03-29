@@ -6,6 +6,8 @@ function paginaCargada(){
     var green = document.querySelector('.info__g');
     var blue = document.querySelector('.info__b');
 
+    //hey muy buenas a todos
+
     function crearUsuario(){
         var contenedor = document.querySelector('.usuarios');
         var inputNom = document.querySelector('.info__nombre');
